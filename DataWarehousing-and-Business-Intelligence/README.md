@@ -32,6 +32,16 @@ This repository includes all the Data Warehouse and Business Intelligence Projec
 
 # IMDB Project
 
+# Staging
+<img width="343" alt="Time-Synchronized_ETL pipelines" src="https://user-images.githubusercontent.com/55612489/117912924-6399a780-b2ae-11eb-824d-a96da3e8a278.png">
+
+# Loading into dimensional Model
+<img width="821" alt="ETL_Pipeline" src="https://user-images.githubusercontent.com/55612489/117912862-4369e880-b2ae-11eb-9d4d-e4f5eb66113e.png">
+
+# Master jobs
+![finalmaster Job](https://user-images.githubusercontent.com/55612489/117912870-49f86000-b2ae-11eb-868d-d32da4015aa0.png)
+
+
 ### Project Deliverables
 
 • Ingest initial set of tsv and csv files into staging tables.\
@@ -42,7 +52,7 @@ This repository includes all the Data Warehouse and Business Intelligence Projec
 
 ### Dimensional Model
 
-https://user-images.githubusercontent.com/55213702/81252687-90104900-8ff4-11ea-9630-2943b7620e94.JPG
+https://user-images.githubusercontent.com/55612489/117912695-eff79a80-b2ad-11eb-862e-a11104e91a04.png
 
 ### Steps Invloved:
 
